@@ -1,0 +1,5 @@
+{
+  "name": "Plant Pal: Watering Scheduler",
+  "description": "Upload a photo of your plant to identify it, get its watering needs, and create a custom watering schedule to keep it healthy and happy.",
+  "requestFramePermissions": []
+}
